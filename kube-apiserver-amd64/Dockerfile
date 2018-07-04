@@ -1,3 +1,3 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64 
+FROM gcr.io/google_containers/etcd-amd64 
 MAINTAINER mary
 
